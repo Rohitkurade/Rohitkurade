@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+----------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center">Hi there 👋, I'm Rohit Kurade</h1>
 <h3 align="center">Computer Engineering Student | DSA Enthusiast | Web Development Learner</h3>
 
