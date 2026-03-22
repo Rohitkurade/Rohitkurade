@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 <hr>
 <h1 align="center">Hi there 👋, I'm Rohit Kurade</h1>
@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I am a **Computer Engineering student** at **AISSMS College of Engineering, Pune**
+- 🎓 I am a **Computer Engineering student** at **AISSMS College of Engineering , Pune**
 - 💡 I am passionate about **Data Structures and Algorithms**
 - 🌱 I am currently learning **Web Development**
 - 💻 I enjoy solving coding problems and building useful projects
