@@ -1,30 +1,20 @@
-<!-- ==========================================
-     ROHIT KURADE — GitHub Profile README
-     Replace all [PLACEHOLDER] values before publishing
-     ========================================== -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Kurade+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
+  Hi 👋, I'm Rohit Kurade
 </h1>
 
-<p align="center">
-  <em>Building scalable software, one problem at a time.</em>
-</p>
+<h3 align="center">
+  Computer Engineering Student | Frontend & Full Stack Developer
+</h3>
 
 <p align="center">
-  <!-- Replace YOUR_LINKEDIN_USERNAME and YOUR_EMAIL below -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/Rohitkurade">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Replace YOUR_LEETCODE_USERNAME below -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/rohitkurade" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:rohitkurade2005@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,84 +22,171 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** at **AISSMS College of Engineering, Pune** with a CGPA of **8.9/10**, passionate about writing clean, efficient code and building full-stack web applications.
+I'm a **Computer Engineering student at AISSMS College of Engineering, Pune**, passionate about building modern, scalable, and user-focused web applications.
 
-- 🎓 **B.E. Computer Engineering** — AISSMS COE, Pune *(Expected Graduation: 2026)*
-- 🏆 **CGPA:** 8.9 / 10
-- 🔭 Currently building projects with the **Full Stack**
-- 📚 Actively practicing **Advanced DSA** on LeetCode & Codeforces
-- 🎯 Goal: Secure a role at a **top product-based company** (10–20 LPA+)
-- ⚡ Fun fact: I debug faster with good music on 🎧
+I enjoy working across the stack — from designing responsive React interfaces and integrating REST APIs to building backend services, databases, and AI-powered features.
+
+- 🎓 B.E. Computer Engineering — AISSMS College of Engineering, Pune
+- 💻 Focused on **Frontend & Full Stack Development**
+- ⚛️ Building applications with **React.js, TypeScript, Node.js & Express.js**
+- 🤖 Exploring **AI/ML integration in web applications**
+- 🗄️ Working with **MongoDB & PostgreSQL**
+- ☁️ Learning and working with **cloud deployment & DevOps tools**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🚀 Interested in building production-oriented software
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🎨 Frontend
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+</p>
 
-### Tools & Concepts
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### ⚙️ Backend
 
----
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
 
+### 🗄️ Databases & ORM
 
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
 
----
+### 🤖 AI / Machine Learning
 
-## 📈 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/AI_API_Integration-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-```
-📌 Advanced DSA — Segment Trees, Tries, Graphs (BFS/DFS/Dijkstra)
-📌 Full Stack Development — MERN + Authentication + Deployment
-📌 System Design — Scalability, Load Balancing, Caching
-📌 Preparing for product-based company interviews (10–20 LPA+)
-```
+### ☁️ Cloud & Deployment
 
----
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</p>
 
-## 📬 Get in Touch
+### 🔧 Tools & Development
 
-I'm always open to discussing **new opportunities**, **collaborations**, or just a good conversation about tech.
-
-<p align="center">
-  <!-- Replace YOUR_LINKEDIN_USERNAME and YOUR_EMAIL -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitkurade&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <em>"Consistency beats talent when talent doesn't stay consistent."</em><br/>
-  <strong>— Working towards excellence, one commit at a time. 🚀</strong>
-</p>
+### 🤖 AI Interview Platform
+
+**AI-powered technical interview preparation platform**
+
+**Tech:** React.js • TypeScript • Node.js • Express.js • PostgreSQL • Prisma • Groq API
+
+- Built a full-stack platform for AI-driven technical interview preparation.
+- Developed a type-safe frontend using **React.js and TypeScript**.
+- Integrated backend REST APIs using **Express.js and TypeScript**.
+- Integrated **Groq API** for dynamic interview question generation and response evaluation.
+- Implemented authentication and secure user data handling.
+- Used **Prisma ORM with PostgreSQL** for structured data management.
+- Tested REST APIs using **Postman**.
+
+🔗 **Repository:**  
+https://github.com/Rohitkurade/ai-interview-platform
+
+---
+
+### 📋 DevTrack
+
+**Developer Career Progress & Job Tracking Platform**
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+
+- Built a full-stack task and progress management platform.
+- Developed a responsive React.js frontend using **Tailwind CSS**.
+- Implemented authentication and role-based access control.
+- Developed complete **CRUD workflows** for task management.
+- Integrated frontend components with backend REST APIs.
+- Used **JWT** for secure authentication and MongoDB for data persistence.
+
+🔗 **GitHub:**  
+https://github.com/Rohitkurade
+
+---
+
+### 🔥 FireGuardian
+
+**AI Fire Detection & Monitoring Platform**
+
+**Tech:** React.js • Python • Flask • Scikit-learn • Chart.js
+
+- Developed an AI-powered platform for fire-risk prediction and monitoring.
+- Built an interactive **React.js dashboard** for visualizing prediction results.
+- Integrated a Flask-based ML inference service with the frontend.
+- Implemented interactive charts and prediction history using **Chart.js**.
+- Added PDF report generation for prediction results.
+- Designed a modular architecture separating frontend, backend, and ML services.
+
+🔗 **GitHub:**  
+https://github.com/Rohitkurade
+
+---
+
+## 🧠 Problem Solving & DSA
+
+I regularly practice Data Structures & Algorithms to improve problem-solving and programming fundamentals.
+
+### Topics I'm working on
+
+```text
+Arrays & Strings
+Linked Lists
+Stacks & Queues
+Binary Trees
+BST
+Graphs
+BFS / DFS
+Recursion & Backtracking
+Binary Search
+Sorting & Searching
+Dynamic Programming
+Greedy Algorithms
+Hashing
