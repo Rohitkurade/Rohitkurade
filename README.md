@@ -32,11 +32,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** at **AISSMS College of Engineering, Pune** with a CGPA of **9.5/10**, passionate about writing clean, efficient code and building full-stack web applications.
+I'm a **Computer Engineering student** at **AISSMS College of Engineering, Pune** with a CGPA of **8.9/10**, passionate about writing clean, efficient code and building full-stack web applications.
 
 - 🎓 **B.E. Computer Engineering** — AISSMS COE, Pune *(Expected Graduation: 2026)*
 - 🏆 **CGPA:** 8.9 / 10
-- 🔭 Currently building projects with the **MERN Stack**
+- 🔭 Currently building projects with the **Full Stack**
 - 📚 Actively practicing **Advanced DSA** on LeetCode & Codeforces
 - 🎯 Goal: Secure a role at a **top product-based company** (10–20 LPA+)
 - ⚡ Fun fact: I debug faster with good music on 🎧
