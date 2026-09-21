@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Rohit Kurade
+  Hi, I'm Rohit Kurade
 </h1>
 
 <h3 align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Engineering student at AISSMS College of Engineering, Pune**, passionate about building modern, scalable, and user-focused web applications.
 
