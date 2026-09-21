@@ -39,7 +39,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
 
 ## Tech Stack
 
-###Languages
+Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -49,7 +49,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-###Frontend
+Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -61,7 +61,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-###Backend
+Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -71,7 +71,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-###Databases & ORM
+Databases & ORM
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -81,7 +81,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 </p>
 
-###AI / Machine Learning
+AI / Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/AI_API_Integration-412991?style=for-the-badge"/>
@@ -89,7 +89,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-###Cloud & Deployment
+Cloud & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
@@ -100,7 +100,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
-###Tools & Development
+Tools & Development
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -115,7 +115,7 @@ I enjoy working across the stack — from designing responsive React interfaces 
 
 ## Featured Projects
 
-### 🤖 AI Interview Platform
+# 🤖 AI Interview Platform
 
 **AI-powered technical interview preparation platform**
 
@@ -134,7 +134,7 @@ https://github.com/Rohitkurade/ai-interview-platform
 
 ---
 
-### 📋 DevTrack
+# 📋 DevTrack
 
 **Developer Career Progress & Job Tracking Platform**
 
@@ -152,7 +152,7 @@ https://github.com/Rohitkurade
 
 ---
 
-### 🔥 FireGuardian
+# 🔥 FireGuardian
 
 **AI Fire Detection & Monitoring Platform**
 
